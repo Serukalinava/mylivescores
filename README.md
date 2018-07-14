@@ -1,2 +1,2 @@
 # mylivescores
-Test pushing :)
+local : java -jar target/dependency/webapp-runner.jar target/webappRunnerSample
